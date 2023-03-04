@@ -113,12 +113,10 @@ iHelix HIS enables the bidirectional interfacing of Lab Analyzers with this (HL-
  4. Enhanced & Dynamic Analytical Reports
  5. It implements cost effective solutions pertaining to healthcare
  
-https://youtu.be/Megm81l-Py0
-https://youtu.be/j0_umGEZrDI
-https://youtu.be/Q1Gf0NmBImU
-https://youtu.be/uLFidBW2gHc
-With the help of these standards, healthcare information can be delivered in a consistent manner to the patient.
-
+ A. https://youtu.be/Megm81l-Py0
+ B. https://youtu.be/j0_umGEZrDI
+ C. https://youtu.be/Q1Gf0NmBImU
+ D. https://youtu.be/uLFidBW2gHc
 
 
 
