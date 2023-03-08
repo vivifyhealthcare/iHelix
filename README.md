@@ -1,3 +1,5 @@
+![ihelix](https://user-images.githubusercontent.com/3474686/223832910-b5fafb76-67d0-4a80-9176-613e60add91a.png)
+
 # iHelix
 **iHelix HIS** is a state-of-the-art, fully integrated hospital information system. It provides healthcare organizations with a complete set of tools for improved hospital management, clinical tasks and patient administration. User access to the system is via browser across all departments from any device from anywhere. **iHelix is on a single open standard database for easy, low-cost, reliable and secure operations**. No more maddening scrabbles to try to identify which system interconnection is down or compromised.
 iHelix HIS is an enterprise-wide solution that provides complete patient information across all points of care to allow healthcare providers to deliver the best care possible.
